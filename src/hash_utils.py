@@ -1,3 +1,4 @@
+#Certificate hashing
 import hashlib
 
 def generate_hash(data):

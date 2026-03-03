@@ -1,3 +1,4 @@
+#Added verification module
 from hash_utils import generate_hash
 
 text = input("Enter certificate text: ")
